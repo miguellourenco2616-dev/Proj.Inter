@@ -1,6 +1,5 @@
 # Proj.Inter
-Projeto Interdisciplinar
-
+Projeto Interdisciplinar contendo as classes .java, o Script SQL, e o Diagrama de Classes. A parte HTML/CSS está no outro link do Github. Ambos links estão no trabalho.
 
 ## Sistema de Logística 
 ## Descrição 
@@ -17,7 +16,6 @@ Projeto Interdisciplinar
 - SQL Server
 - Umbrello
 - HTML/CSS
-- Canva
 - GitHub
 
 ## Integrantes
