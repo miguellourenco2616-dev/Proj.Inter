@@ -1,5 +1,5 @@
 # Proj.Inter
-Projeto Interdisciplinar contendo as classes .java, o Script SQL, e o Diagrama de Classes. A parte HTML/CSS está no outro link do Github. Ambos links estão no trabalho.
+Projeto Interdisciplinar contendo as classes .java, o Script SQL, e o Diagrama de Classes. A parte HTML/CSS está no outro link do Github. Ambos links estão no documento do trabalho.
 
 ## Sistema de Logística 
 ## Descrição 
