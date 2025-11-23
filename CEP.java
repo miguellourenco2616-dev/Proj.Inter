@@ -1,20 +1,21 @@
 public class CEP {
-    private int id;
+    private int nr;
 
 public CEP(){
-   id = 0; 
+   nr = 0; 
 }
 
-public CEP(int id) {
-    this.id = id;
+public CEP(int nr) {
+    this.nr = nr;
 }
 
-public int getId() {
-    return id;
+public int getNr() {
+    return nr;
 }
 
-public void setId(int id) {
-    this.id = id;
+public void setNr(int nr) {
+    this.nr = nr;
 }
 
 }
+
